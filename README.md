@@ -1,3 +1,3 @@
 # Generative AI Research
 
-## Modify the REIT file
+## Modify the REIT read me file
